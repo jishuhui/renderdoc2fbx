@@ -1,4 +1,4 @@
-#Renderdoc导出贴图
+# Renderdoc导出贴图
 **https://zhuanlan.zhihu.com/p/676649576**
 
 # renderdoc2fbx
